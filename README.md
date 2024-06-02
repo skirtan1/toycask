@@ -1,2 +1,3 @@
 # toycask
-An inefficient try a writing something like bitcask
+A bitcask implementation inspired from:
+https://github.com/pingcap/talent-plan/tree/master/courses/rust/projects/project-2
